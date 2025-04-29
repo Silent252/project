@@ -5,7 +5,7 @@ test2
    :toctree: generated
 
    lumache
-test
+testing 
 
 .. list-table:: Table Title (optional)
    :widths: 25 25 50
