@@ -20,4 +20,4 @@ Contents
 
    usage
    api
-   how to
+   how-to/index
