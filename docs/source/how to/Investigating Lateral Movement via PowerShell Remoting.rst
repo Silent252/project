@@ -85,7 +85,7 @@ Steps to Investigate
   - Establish sessions: **New-PSSession, Enter-PSSession,
     Invoke-Command**
 
-.. |image1| image:: docs/source/media/media/image1.png
+.. image:: docs/source/media/media/image1.png
    :width: 6.26806in
    :height: 0.5125in
 
@@ -235,6 +235,7 @@ kernel memory \| Expel|
 .. |image5| image:: C:\Users\AK\Documents\kb\output\media/media/image13.png
    :width: 4.92336in
    :height: 2.09622in
+
 
 
 
