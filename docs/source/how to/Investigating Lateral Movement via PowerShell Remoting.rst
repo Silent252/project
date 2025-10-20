@@ -197,7 +197,7 @@ kernel memory \| Expel|
 
 |image5|
 
-.. |image1| image:: C:\Users\AK\Documents\kb\output\media/media/image1.png
+.. |image1| image:: docs/source/how to/media/media/image1.png
    :width: 6.26806in
    :height: 0.5125in
 .. |A screen shot of a computer AI-generated content may be incorrect.| image:: C:\Users\AK\Documents\kb\output\media/media/image2.png
@@ -236,3 +236,4 @@ kernel memory \| Expel|
 .. |image5| image:: C:\Users\AK\Documents\kb\output\media/media/image13.png
    :width: 4.92336in
    :height: 2.09622in
+
