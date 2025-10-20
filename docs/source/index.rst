@@ -12,6 +12,6 @@ This documentation provides a comprehensive resource for understanding, implemen
    :caption: Contents
 
    reference/index
-   how-to/index
+   how to/index
    playbook/index
    manual/index
