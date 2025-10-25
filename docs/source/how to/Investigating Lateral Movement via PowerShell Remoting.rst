@@ -87,6 +87,8 @@ Steps to Investigate
 
 .. figure:: /_static/image1.png
    :align: center
+.. image:: /docs/media/media/image2.png
+   :align: center
 
 
 - **Blue (Defender)**
@@ -97,11 +99,11 @@ Steps to Investigate
 
     - Check WinRM logs: Event 6: Session creation
 
-|A screenshot of a computer AI-generated content may be incorrect.|
-
+.. image:: /docs/media/media/image3.png
+   :align: center
 - Event 11: WSMan shell creation (remote PowerShell session initiated)
 
-.. figure:: /docs/media/media/image2.png
+.. image:: /docs/media/media/image4.png
    :align: center
 
 **Step 2: Correlate Authentication Events**
@@ -234,6 +236,7 @@ kernel memory \| Expel|
 .. |image5| image:: C:\Users\AK\Documents\kb\output\media/media/image13.png
    :width: 4.92336in
    :height: 2.09622in
+
 
 
 
