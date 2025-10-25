@@ -87,7 +87,7 @@ Steps to Investigate
 
 .. figure:: /_static/PowerShell_Remoting/image1.png
    :align: center
-
+:class: bottom-spacer
 .. image:: /_static/PowerShell_Remoting/image2.png
    :align: center
 
@@ -237,6 +237,7 @@ kernel memory \| Expel|
 .. |image5| image:: C:\Users\AK\Documents\kb\output\media/media/image13.png
    :width: 4.92336in
    :height: 2.09622in
+
 
 
 
