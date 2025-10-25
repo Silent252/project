@@ -102,7 +102,8 @@ Steps to Investigate
 
 - Event 11: WSMan shell creation (remote PowerShell session initiated)
 
-|image2|
+.. figure:: /docs/media/media/image2.png
+   :align: center
 
 **Step 2: Correlate Authentication Events**
 
@@ -234,6 +235,7 @@ kernel memory \| Expel|
 .. |image5| image:: C:\Users\AK\Documents\kb\output\media/media/image13.png
    :width: 4.92336in
    :height: 2.09622in
+
 
 
 
