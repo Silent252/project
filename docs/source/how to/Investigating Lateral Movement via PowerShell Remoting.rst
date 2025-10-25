@@ -85,9 +85,9 @@ Steps to Investigate
   - Establish sessions: **New-PSSession, Enter-PSSession,
     Invoke-Command**
 
-.. figure:: /_static/PowerShell Remoting/image1.png
+.. figure:: /_static/PowerShell_Remoting/image1.png
    :align: center
-.. image:: /_static/PowerShell Remoting/image2.png
+.. image:: /_static/PowerShell_Remoting/image2.png
    :align: center
 
 
@@ -99,11 +99,11 @@ Steps to Investigate
 
     - Check WinRM logs: Event 6: Session creation
 
-.. image:: /_static/PowerShell Remoting/image3.png
+.. image:: /_static/PowerShell_Remoting/image3.png
    :align: center
 - Event 11: WSMan shell creation (remote PowerShell session initiated)
 
-.. image:: /_static/PowerShell Remoting/image4.png
+.. image:: /_static/PowerShell_Remoting/image4.png
    :align: center
 
 **Step 2: Correlate Authentication Events**
@@ -236,6 +236,7 @@ kernel memory \| Expel|
 .. |image5| image:: C:\Users\AK\Documents\kb\output\media/media/image13.png
    :width: 4.92336in
    :height: 2.09622in
+
 
 
 
