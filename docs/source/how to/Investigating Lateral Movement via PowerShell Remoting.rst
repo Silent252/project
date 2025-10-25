@@ -88,7 +88,6 @@ Steps to Investigate
 .. figure:: /docs/media/media/image1.png
    :align: center
 
-|A screen shot of a computer AI-generated content may be incorrect.|
 
 - **Blue (Defender)**
 
@@ -235,6 +234,7 @@ kernel memory \| Expel|
 .. |image5| image:: C:\Users\AK\Documents\kb\output\media/media/image13.png
    :width: 4.92336in
    :height: 2.09622in
+
 
 
 
