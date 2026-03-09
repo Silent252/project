@@ -14,3 +14,8 @@ figure img {
 .center-text {
     text-align: center;
 }
+
+.center-text ul {
+    list-style-position: inside; 
+    padding-left: 0; 
+}
