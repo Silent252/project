@@ -1,16 +1,16 @@
-#Line_spacing
+
 img.bottom-space {
     margin-bottom: 20px;
 }
 
-#Figure_borders
+
 figure img {
     border: 2px solid #000000;
     border-radius: 5px;
     padding: 2px;
 }
 
-#Center_text
+
 .center-text {
     text-align: center;
 }
