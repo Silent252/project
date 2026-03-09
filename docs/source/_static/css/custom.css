@@ -16,6 +16,12 @@ figure img {
 }
 
 .center-text ul {
-    list-style-position: inside; 
-    padding-left: 0; 
+    display: inline-block !important; 
+    list-style-position: inside !important; 
+    padding-left: 0 !important; 
+    margin: 0 auto !important;
+}
+
+.center-text li {
+    text-align: center !important; 
 }
