@@ -52,7 +52,9 @@ Suspicious PsExec Usage Patterns:
    commands under that service (PsExec copies itself to the target
    machine’s ADMIN$ share, typically named PSEXESVC.exe).
 
-|image1|
+.. figure:: /_static/psexec/image1.png 
+   :align: center  
+   :class: bottom-space
 
 In the above figure, a remote code execution from Host A to Host B for
 lateral movement. On Host A, threat actor executed this command:
@@ -76,7 +78,9 @@ Steps to Investigate
   PsExec create a new logon session, usually a **Logon Type 3**
   (Network), which can be an indicator of remote activity.
 
-|image2|
+.. figure:: /_static/psexec/image2.png 
+   :align: center  
+   :class: bottom-space
 
 **Step 2: Monitor Windows Event Logs and Sysmon Logs**
 
@@ -125,7 +129,9 @@ Target Machine Event Logs
 
   - This mean the PSEXESVC service will only be executed.
 
-|image3|
+.. figure:: /_static/psexec/image3.png 
+   :align: center  
+   :class: bottom-space
 
 **Step 3: Check Two events 4697 and 4688**
 
@@ -137,7 +143,9 @@ Target Machine Event Logs
 - Event ID **4688:** Records execution of **PSEXESVC.exe** (spawned by
   **services.exe** (parent process))
 
-|A screenshot of a computer AI-generated content may be incorrect.|
+.. figure:: /_static/psexec/image4.png 
+   :align: center  
+   :class: bottom-space
 
 **Step 4: Investigating Suspicious Access**
 
@@ -149,7 +157,9 @@ Target Machine Event Logs
 - **Finding:** Python.exe running from **C:\\Windows\\Temp** was spawned
   by PSEXESVC.exe.
 
-|image4|
+.. figure:: /_static/psexec/image5.png 
+   :align: center  
+   :class: bottom-space
 
 **Step 5: Investigating Activity after successful attempted**
 
@@ -168,18 +178,4 @@ Target Machine Event Logs
 
   - Malicious: abused by threat actor for Lateral Movement
 
-.. |image1| image:: C:\Users\AK\Documents\kb\output\media\psexc/media/image1.png
-   :width: 6.26806in
-   :height: 2.23958in
-.. |image2| image:: C:\Users\AK\Documents\kb\output\media\psexc/media/image2.png
-   :width: 4.16531in
-   :height: 3.38126in
-.. |image3| image:: C:\Users\AK\Documents\kb\output\media\psexc/media/image3.png
-   :width: 6.26806in
-   :height: 2.61458in
-.. |A screenshot of a computer AI-generated content may be incorrect.| image:: C:\Users\AK\Documents\kb\output\media\psexc/media/image4.png
-   :width: 5.1986in
-   :height: 3.50413in
-.. |image4| image:: C:\Users\AK\Documents\kb\output\media\psexc/media/image5.png
-   :width: 5.60815in
-   :height: 3.75285in
+
