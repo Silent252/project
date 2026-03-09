@@ -45,7 +45,9 @@ access and potential lateral movement.
 
 - **4778 / 4779** - RDP session reconnect/disconnect
 
-|image1|
+.. figure:: /_static/RDP/image1.png 
+   :align: center  
+   :class: bottom-space
 
 Steps to Investigate
 --------------------
@@ -60,7 +62,9 @@ Steps to Investigate
 - Verify whether the source IP address belongs to internal
   infrastructure or an external network.
 
-|image2|
+.. figure:: /_static/RDP/image2.png 
+   :align: center  
+   :class: bottom-space
 
 **Step 2: Investigate Failed Logon Attempts**
 
@@ -120,3 +124,4 @@ Steps to Investigate
 .. |image2| image:: C:\Users\AK\Documents\kb\output\RDP/media/image2.png
    :width: 5.02849in
    :height: 4.89304in
+
