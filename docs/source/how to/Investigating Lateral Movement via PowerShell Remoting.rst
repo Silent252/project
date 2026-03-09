@@ -155,7 +155,7 @@ Steps to Investigate
 - Correlate with Sysmon Event 1 (process creation)
 
   - Parent: C:\\Windows\\system32\\wsmprovhost.exe -Embedding
-6
+
   - Process name: powershell.exe
 
 .. figure:: /_static/PowerShell_Remoting/image6.png
@@ -221,6 +221,7 @@ Steps to Investigate
 .. figure:: /_static/PowerShell_Remoting/image13.png
    :align: center  
    :class: bottom-space
+
 
 
 
