@@ -126,8 +126,8 @@ Steps to Investigate
 - Validate account permissions and legitimacy of source/destination
   hosts
 
-|A white background with black text AI-generated content may be
-incorrect.|
+.. image:: /_static/PowerShell_Remoting/image5.png
+   :align: center
 
 **Step 3: Review Remote Execution**
 
@@ -150,18 +150,18 @@ incorrect.|
 - Correlate with Sysmon Event 1 (process creation)
 
   - Parent: C:\\Windows\\system32\\wsmprovhost.exe -Embedding
-
+6
   - Process name: powershell.exe
 
-|A diagram of a computer system AI-generated content may be incorrect.|
+.. image:: /_static/PowerShell_Remoting/image6.png
+   :align: center
 
-|Detecting Offensive PowerShell Attack Tools – Active Directory & Azure
-AD/Entra ID Security|
+.. image:: /_static/PowerShell_Remoting/image7.png
+   :align: center
 
-|A close up of a white background AI-generated content may be
-incorrect.|
+.. image:: /_static/PowerShell_Remoting/image8.png
+   :align: center
 
-|image3|
 
 **Step 4: Identify Malicious Behavior**
 
@@ -184,13 +184,17 @@ incorrect.|
 
 - Check for outbound PowerShell web requests
 
-|Windows registry subkey creation not generating logs (Windows event ID
-4657) - Server Fault|
+.. image:: /_static/PowerShell_Remoting/image9.png
+   :align: center
 
-|Well that escalated quickly: How a red team went from domain user to
-kernel memory \| Expel|
+.. image:: /_static/PowerShell_Remoting/image10.png
+   :align: center
 
-|image4|
+.. image:: /_static/PowerShell_Remoting/image11.png
+   :align: center
+
+.. image:: /_static/PowerShell_Remoting/image12.png
+   :align: center
 
 **Step 5: Validate with Network Data**
 
@@ -201,7 +205,8 @@ kernel memory \| Expel|
   Confirm whether the connections originate from legitimate admin hosts
   or suspicious user endpoints.
 
-|image5|
+.. image:: /_static/PowerShell_Remoting/image13.png
+   :align: center
 
 .. |A screen shot of a computer AI-generated content may be incorrect.| image:: C:\Users\AK\Documents\kb\output\media/media/image2.png
    :width: 6.26806in
@@ -239,6 +244,7 @@ kernel memory \| Expel|
 .. |image5| image:: C:\Users\AK\Documents\kb\output\media/media/image13.png
    :width: 4.92336in
    :height: 2.09622in
+
 
 
 
