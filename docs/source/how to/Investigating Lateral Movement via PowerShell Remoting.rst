@@ -208,42 +208,7 @@ Steps to Investigate
 .. image:: /_static/PowerShell_Remoting/image13.png
    :align: center
 
-.. |A screen shot of a computer AI-generated content may be incorrect.| image:: C:\Users\AK\Documents\kb\output\media/media/image2.png
-   :width: 6.26806in
-   :height: 1.02153in
-.. |A screenshot of a computer AI-generated content may be incorrect.| image:: C:\Users\AK\Documents\kb\output\media/media/image3.jpeg
-   :width: 5.88819in
-   :height: 2in
-.. |image2| image:: C:\Users\AK\Documents\kb\output\media/media/image4.jpeg
-   :width: 6.26806in
-   :height: 1.92361in
-.. |A white background with black text AI-generated content may be incorrect.| image:: C:\Users\AK\Documents\kb\output\media/media/image5.jpeg
-   :width: 6.26806in
-   :height: 0.92569in
-.. |A diagram of a computer system AI-generated content may be incorrect.| image:: C:\Users\AK\Documents\kb\output\media/media/image6.png
-   :width: 6.26806in
-   :height: 4.75625in
-.. |Detecting Offensive PowerShell Attack Tools – Active Directory & Azure AD/Entra ID Security| image:: C:\Users\AK\Documents\kb\output\media/media/image7.png
-   :width: 4.26942in
-   :height: 3.45149in
-.. |A close up of a white background AI-generated content may be incorrect.| image:: C:\Users\AK\Documents\kb\output\media/media/image8.jpeg
-   :width: 6.26806in
-   :height: 1.02431in
-.. |image3| image:: C:\Users\AK\Documents\kb\output\media/media/image9.png
-   :width: 6.26806in
-   :height: 4.21528in
-.. |Windows registry subkey creation not generating logs (Windows event ID 4657) - Server Fault| image:: C:\Users\AK\Documents\kb\output\media/media/image10.png
-   :width: 5.58878in
-   :height: 6.04574in
-.. |Well that escalated quickly: How a red team went from domain user to kernel memory \| Expel| image:: C:\Users\AK\Documents\kb\output\media/media/image11.png
-   :width: 6.26806in
-   :height: 4.13681in
-.. |image4| image:: C:\Users\AK\Documents\kb\output\media/media/image12.png
-   :width: 6.26806in
-   :height: 0.91042in
-.. |image5| image:: C:\Users\AK\Documents\kb\output\media/media/image13.png
-   :width: 4.92336in
-   :height: 2.09622in
+
 
 
 
