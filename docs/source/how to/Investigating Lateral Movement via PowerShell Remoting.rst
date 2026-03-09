@@ -90,7 +90,7 @@ Steps to Investigate
    :class: bottom-space
    
 
-.. image:: /_static/PowerShell_Remoting/image2.png
+.. figure:: /_static/PowerShell_Remoting/image2.png
    :align: center  
    :class: bottom-space
 
@@ -103,13 +103,13 @@ Steps to Investigate
 
     - Check WinRM logs: Event 6: Session creation
 
-.. image:: /_static/PowerShell_Remoting/image3.png
+.. figure:: /_static/PowerShell_Remoting/image3.png
    :align: center  
    :class: bottom-space
 
 - Event 11: WSMan shell creation (remote PowerShell session initiated)
 
-.. image:: /_static/PowerShell_Remoting/image4.png
+.. figure:: /_static/PowerShell_Remoting/image4.png
    :align: center  
    :class: bottom-space
 
@@ -130,7 +130,7 @@ Steps to Investigate
 - Validate account permissions and legitimacy of source/destination
   hosts
 
-.. image:: /_static/PowerShell_Remoting/image5.jpeg
+.. figure:: /_static/PowerShell_Remoting/image5.jpeg
    :align: center  
    :class: bottom-space
 
@@ -170,7 +170,7 @@ Steps to Investigate
    :align: center  
    :class: bottom-space
 
-.. image:: /_static/PowerShell_Remoting/image9.png
+.. figure:: /_static/PowerShell_Remoting/image9.png
    :align: center 
    :class: bottom-space
 
@@ -197,15 +197,15 @@ Steps to Investigate
 - Check for outbound PowerShell web requests
 
 
-.. image:: /_static/PowerShell_Remoting/image10.png
+.. figure:: /_static/PowerShell_Remoting/image10.png
    :align: center  
    :class: bottom-space
 
-.. image:: /_static/PowerShell_Remoting/image11.png
+.. figure:: /_static/PowerShell_Remoting/image11.png
    :align: center  
    :class: bottom-space
 
-.. image:: /_static/PowerShell_Remoting/image12.png
+.. figure:: /_static/PowerShell_Remoting/image12.png
    :align: center  
    :class: bottom-space
 
@@ -218,9 +218,10 @@ Steps to Investigate
   Confirm whether the connections originate from legitimate admin hosts
   or suspicious user endpoints.
 
-.. image:: /_static/PowerShell_Remoting/image13.png
+.. figure:: /_static/PowerShell_Remoting/image13.png
    :align: center  
    :class: bottom-space
+
 
 
 
