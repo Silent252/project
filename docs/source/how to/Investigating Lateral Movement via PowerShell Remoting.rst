@@ -106,6 +106,7 @@ Steps to Investigate
 .. image:: /_static/PowerShell_Remoting/image3.png
    :align: center  
    :class: bottom-space
+
 - Event 11: WSMan shell creation (remote PowerShell session initiated)
 
 .. image:: /_static/PowerShell_Remoting/image4.png
@@ -168,6 +169,7 @@ Steps to Investigate
 .. image:: /_static/PowerShell_Remoting/image8.jpeg
    :align: center  
    :class: bottom-space
+
 .. image:: /_static/PowerShell_Remoting/image9.png
    :align: center 
    :class: bottom-space
@@ -219,6 +221,7 @@ Steps to Investigate
 .. image:: /_static/PowerShell_Remoting/image13.png
    :align: center  
    :class: bottom-space
+
 
 
 
