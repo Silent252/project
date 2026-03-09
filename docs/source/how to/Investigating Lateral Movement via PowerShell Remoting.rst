@@ -86,12 +86,13 @@ Steps to Investigate
     Invoke-Command**
 
 .. figure:: /_static/PowerShell_Remoting/image1.png 
-   :align: center  :class: bottom-space
+   :align: center  
+   :class: bottom-space
    
 
 .. image:: /_static/PowerShell_Remoting/image2.png
    :align: center  
-:class: bottom-space
+   :class: bottom-space
 
 
 - **Blue (Defender)**
@@ -104,12 +105,12 @@ Steps to Investigate
 
 .. image:: /_static/PowerShell_Remoting/image3.png
    :align: center  
-:class: bottom-space
+   :class: bottom-space
 - Event 11: WSMan shell creation (remote PowerShell session initiated)
 
 .. image:: /_static/PowerShell_Remoting/image4.png
    :align: center  
-:class: bottom-space
+   :class: bottom-space
 
 **Step 2: Correlate Authentication Events**
 
@@ -130,7 +131,7 @@ Steps to Investigate
 
 .. image:: /_static/PowerShell_Remoting/image5.jpeg
    :align: center  
-:class: bottom-space
+   :class: bottom-space
 
 **Step 3: Review Remote Execution**
 
@@ -158,18 +159,18 @@ Steps to Investigate
 
 .. image:: /_static/PowerShell_Remoting/image6.png
    :align: center  
-:class: bottom-space
+   :class: bottom-space
 
 .. image:: /_static/PowerShell_Remoting/image7.png
    :align: center  
-:class: bottom-space
+   :class: bottom-space
 
 .. image:: /_static/PowerShell_Remoting/image8.jpeg
    :align: center  
-:class: bottom-space
+   :class: bottom-space
 .. image:: /_static/PowerShell_Remoting/image9.png
    :align: center 
-:class: bottom-space
+   :class: bottom-space
 
 
 **Step 4: Identify Malicious Behavior**
@@ -196,15 +197,15 @@ Steps to Investigate
 
 .. image:: /_static/PowerShell_Remoting/image10.png
    :align: center  
-:class: bottom-space
+   :class: bottom-space
 
 .. image:: /_static/PowerShell_Remoting/image11.png
    :align: center  
-:class: bottom-space
+   :class: bottom-space
 
 .. image:: /_static/PowerShell_Remoting/image12.png
    :align: center  
-:class: bottom-space
+   :class: bottom-space
 
 **Step 5: Validate with Network Data**
 
@@ -217,7 +218,8 @@ Steps to Investigate
 
 .. image:: /_static/PowerShell_Remoting/image13.png
    :align: center  
-:class: bottom-space
+   :class: bottom-space
+
 
 
 
