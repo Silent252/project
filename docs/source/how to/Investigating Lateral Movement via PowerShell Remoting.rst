@@ -158,15 +158,15 @@ Steps to Investigate
 6
   - Process name: powershell.exe
 
-.. image:: /_static/PowerShell_Remoting/image6.png
+.. figure:: /_static/PowerShell_Remoting/image6.png
    :align: center  
    :class: bottom-space
 
-.. image:: /_static/PowerShell_Remoting/image7.png
+.. figure:: /_static/PowerShell_Remoting/image7.png
    :align: center  
    :class: bottom-space
 
-.. image:: /_static/PowerShell_Remoting/image8.jpeg
+.. figure:: /_static/PowerShell_Remoting/image8.jpeg
    :align: center  
    :class: bottom-space
 
@@ -221,6 +221,7 @@ Steps to Investigate
 .. image:: /_static/PowerShell_Remoting/image13.png
    :align: center  
    :class: bottom-space
+
 
 
 
