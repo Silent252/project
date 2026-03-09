@@ -126,7 +126,7 @@ Steps to Investigate
 - Validate account permissions and legitimacy of source/destination
   hosts
 
-.. image:: /_static/PowerShell_Remoting/image5.png
+.. image:: /_static/PowerShell_Remoting/image5.jpeg
    :align: center
 
 **Step 3: Review Remote Execution**
@@ -159,7 +159,9 @@ Steps to Investigate
 .. image:: /_static/PowerShell_Remoting/image7.png
    :align: center
 
-.. image:: /_static/PowerShell_Remoting/image8.png
+.. image:: /_static/PowerShell_Remoting/image8.jpeg
+   :align: center
+.. image:: /_static/PowerShell_Remoting/image9.png
    :align: center
 
 
@@ -184,8 +186,6 @@ Steps to Investigate
 
 - Check for outbound PowerShell web requests
 
-.. image:: /_static/PowerShell_Remoting/image9.png
-   :align: center
 
 .. image:: /_static/PowerShell_Remoting/image10.png
    :align: center
@@ -207,6 +207,7 @@ Steps to Investigate
 
 .. image:: /_static/PowerShell_Remoting/image13.png
    :align: center
+
 
 
 
