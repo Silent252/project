@@ -38,7 +38,6 @@ credentials or elevated privileges may use these shares for:
 - Establishing persistence across multiple hosts in a network
 
 The following command as an example for mapping remote systems’ shares:
-
 net use L: \\\\<TargetIP>\\$C <Password> /USER:<Domain>\\<User>
 
 .. _section-1:
@@ -101,5 +100,5 @@ Steps to Investigate
   **7045** in System log).
 
 - Correlate timestamps of logon events with file/service creation to
-
   trace attacker movement.
+
