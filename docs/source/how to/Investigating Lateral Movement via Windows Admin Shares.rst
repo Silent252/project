@@ -57,7 +57,7 @@ Steps to Investigate
 - Check if the **Logon Process** shows NtLmSsp or Kerberos and if the
   **Workstation Name** indicates remote access.
 
-.. figure::  /_static/Investigating Lateral Movement via Windows Admin Shares/image1.png 
+.. figure::  /_static/investigating_lateral_movement_admin_shares/image1.png 
    :align: center  
    :class: bottom-space
 
@@ -70,11 +70,11 @@ Steps to Investigate
 
 - Look for accesses to C$, ADMIN$, IPC$.
 
-.. figure::  /_static/Investigating Lateral Movement via Windows Admin Shares/image2.png 
+.. figure::  /_static/investigating_lateral_movement_admin_shares/image2.png 
    :align: center  
    :class: bottom-space
 
-.. figure::  /_static/Investigating Lateral Movement via Windows Admin Shares/image3.png 
+.. figure::  /_static/investigating_lateral_movement_admin_shares/image3.png 
    :align: center  
    :class: bottom-space
 
@@ -101,4 +101,5 @@ Steps to Investigate
   **7045** in System log).
 
 - Correlate timestamps of logon events with file/service creation to
+
   trace attacker movement.
